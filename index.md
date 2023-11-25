@@ -8,7 +8,7 @@ intro_image_hide_on_mobile: true
 show_call_box: true
 ---
 
-# Clean Freaks LLC
+# We Are Clean Freaks LLC
  **Obsessively Committed to Spotless Spaces.**  
  Embracing our role as the ultimate Clean Freaks, we proudly serve the dynamic communities of Southern Indiana and Louisville, KY. At Clean Freaks, cleaning isn't just a service - it's a passion. 
  

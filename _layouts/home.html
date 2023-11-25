@@ -21,6 +21,16 @@ bodyClass: "page-home"
   </div>
 </div>
 
+<div class="container">
+  <div class="row">
+    <div class="col-12">
+      <div class="content ">
+        <p class="intro-p">Our obsession with cleanliness is evident in every task we undertake, ensuring each nook is not just clean but Clean Freaks clean - spotless, sanitized, and invigorating. Our professional team, equipped with advanced cleaning technology, provides a comprehensive and safe cleaning experience. We offer specialized green cleaning packages upon request for those particularly mindful of their environmental impact. At Clean Freaks, we live by the motto that a meticulously clean space is joyous. Leave the obsession with dirt and grime to us and focus on what truly matters in your life.</p>
+      </div>
+    </div>
+  </div>
+</div>
+
 <div class="strip">
   <div class="container pt-6 pb-6 pb-md-10">
     <div class="row justify-content-start">
@@ -32,7 +42,7 @@ bodyClass: "page-home"
             <h2 class="service-title">
               <a href="{{ service.url | relative_url }}">{{ service.title }}</a>
             </h2>
-            <p>{{ service.content | markdownify | strip_html | truncate: 100 }}</p>
+            <p>{{ service.content | markdownify | strip_html | truncate: 200 }}</p>
           </div>
         </div>
       </div>

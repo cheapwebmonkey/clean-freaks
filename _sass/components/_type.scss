@@ -3,6 +3,7 @@ p {
   color: $steel;
   font-family: $font-family-base;
   margin-bottom: 20px;
+
 }
 h1 {
   font-size: 30px;
@@ -31,6 +32,13 @@ h3 {
     font-size: 20px;
     line-height: 1.4;
   }
+}
+.intro-p {
+  font-size: 1.2rem;
+  font-weight: light;
+  line-height: 1.5;
+  color: $steel;
+
 }
 ul,
 ol {
